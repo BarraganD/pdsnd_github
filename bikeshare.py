@@ -1,3 +1,7 @@
+## Objetive : Learn data wuth Python
+## Author : Diego Barragan
+
+
 import time
 import pandas as pd
 import numpy as np
