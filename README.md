@@ -7,6 +7,7 @@ US Bikeshare Analysis with Python
 ### Description
 The activities are:
 Improve documentation : Objetive and Author
+Improve documentation : Indicate : Please here Import the data
 ### Files used
 bikeshare python file
 README markdown file
