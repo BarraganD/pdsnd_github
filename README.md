@@ -5,13 +5,13 @@ proyect created : December 2021
 ### Project Title
 US Bikeshare Analysis with Python on Github
 ### Description
-The activities are:
-Improve documentation : Objetive and Author
-Improve documentation : Indicate : Please here Import the data
-Improve documentation : This is the final of code
+The activities of improve documentation improve of :
+1. Introduce og the Objetive and Author
+2. Indicate : Please here Import the data
+3. Indicate the final of fthe work : This is the final of code
 ### Files used
-bikeshare python file
-README markdown file
+1.bikeshare python file
+2.README markdown file
 
 ### Credits
 [Sudhanshu Kulshrestha] https://github.com/SudKul
